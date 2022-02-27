@@ -1,4 +1,4 @@
-[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+
 # citz-imb-app-list
 ## Description
 This repo is used to list all IMB managed applications and their respective links to other repos on Github
@@ -13,3 +13,5 @@ This repo is used to list all IMB managed applications and their respective link
    - Example bullet for application description
 - [Application 5](http://github.com/citz-imb-app5)
    - Example bullet for application description
+
+[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
